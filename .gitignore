@@ -1,0 +1,6 @@
+# Binaries are published as GitHub Release assets, not committed.
+*.apk
+*.aab
+*.zip
+*.exe
+*.dll
